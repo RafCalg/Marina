@@ -1,0 +1,28 @@
+﻿
+.auto-style1 {
+    width: 1103px;
+    height: 137px;
+    margin-top: 10px;
+}
+
+.auto-style4 {
+    height: 153px;
+}
+
+.span4 img {
+    margin-right: 10px;
+}
+
+.span4 .img-left {
+    float: left;
+    border-radius: 50%;
+}
+
+.span4 .img-right {
+    float: right;
+    border-radius: 50%;
+}
+
+.auto-style5 {
+    width: 674px;
+}
